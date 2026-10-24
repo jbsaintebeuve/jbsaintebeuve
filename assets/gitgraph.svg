@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="118" viewBox="0 0 900 118" role="img" aria-label="GitGraph">
+<rect width="900" height="118" fill="#f3f1eb"/>
+<g fill="#202248"><text x="24" y="35" font-family="monospace" font-size="13">01 / VISUALISATION GIT / T3 CODE</text>
+<text x="23" y="87" font-family="Georgia,serif" font-size="39">GitGraph</text>
+<text x="364" y="83" font-family="monospace" font-size="12">REACT · TYPESCRIPT · NODE.JS</text></g>
+<g stroke="#202248" stroke-width="1.1" fill="none" opacity=".45"><path d="M725 98 V49 a19 19 0 0 1 38 0 V98"/><path d="M769 98 V49 a19 19 0 0 1 38 0 V98"/><path d="M813 98 V49 a19 19 0 0 1 38 0 V98"/><path d="M24 107H876"/></g></svg>
